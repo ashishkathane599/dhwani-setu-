@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272841331889",
+    "project_id": "dhwanisetu",
+    "storage_bucket": "dhwanisetu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272841331889:android:3dab7a9cec275c467bbe90",
+        "android_client_info": {
+          "package_name": "com.example.dhwanisetu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2A2D3c-XQVj6mE-hRE7vBicNH-QAfVDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
